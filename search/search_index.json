@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043f\u043e Real story Creator", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#real-story-creator", 
+            "text": "", 
+            "title": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043f\u043e Real story Creator"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "curl 'https://jaspervdj.be/lorem-markdownum/markdown.txt'", 
+            "title": "About"
+        }
+    ]
+}
